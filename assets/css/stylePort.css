@@ -201,6 +201,7 @@ hr {
 	width:60%;
 	background-color: white;
 	color:#777777;
+	box-shadow: 10px 10px 5px #888888;
 	/*overflow: scroll;*/
 }
 
@@ -214,6 +215,7 @@ hr {
 	background-color: white;
 	width: 270px;
 	margin-left: auto;	
+	box-shadow: 10px 10px 5px #888888;
 }
 
 #connect-with-me a {
